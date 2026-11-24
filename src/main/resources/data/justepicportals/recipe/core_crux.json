@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["CGC", "GIG", "CGC"],
+  "key": {
+    "C": {"item": "minecraft:clay"},
+    "G": {"item": "minecraft:gravel"},
+    "I": {"item": "minecraft:gold_ingot"}
+  },
+  "result": {"id": "justepicportals:core_crux", "count": 1}
+}

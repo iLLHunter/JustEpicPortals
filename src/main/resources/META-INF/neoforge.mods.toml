@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="LGPL-3.0-only"
+issueTrackerURL="https://github.com/iLLHunter/JustEpicPortals/issues"
+
+[[mixins]]
+config="justepicportals.mixins.json"
+
+[[mods]]
+modId="justepicportals"
+version="${file.jarVersion}"
+displayName="Just Epic Portals"
+authors="iLLHunter"
+logoFile="justepicportals_logo.png"
+description="Link portals built from twenty-eight vanilla materials with Portal Anchor Cores. Travel instantly through upright, floor, or overhead portals with recolorable fantasy effects."
+
+[[dependencies.justepicportals]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.243,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.justepicportals]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.justepicportals]]
+modId="jei"
+type="optional"
+versionRange="[19.27.0.340,)"
+ordering="AFTER"
+side="CLIENT"

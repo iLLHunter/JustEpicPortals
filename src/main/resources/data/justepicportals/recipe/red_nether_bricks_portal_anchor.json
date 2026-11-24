@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "justepicportals:config",
+      "option": "disableRedNetherBricks",
+      "value": false
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " P ",
+    " B ",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "tag": "justepicportals:pearl_ingredients"
+    },
+    "B": {
+      "item": "minecraft:red_nether_bricks"
+    }
+  },
+  "result": {
+    "id": "justepicportals:red_nether_bricks_portal_anchor",
+    "count": 1
+  }
+}

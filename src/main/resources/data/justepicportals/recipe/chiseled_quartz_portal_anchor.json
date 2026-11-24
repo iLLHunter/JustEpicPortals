@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "justepicportals:config",
+      "option": "disableChiseledQuartzBlock",
+      "value": false
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " P ",
+    " B ",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "tag": "justepicportals:pearl_ingredients"
+    },
+    "B": {
+      "item": "minecraft:chiseled_quartz_block"
+    }
+  },
+  "result": {
+    "id": "justepicportals:chiseled_quartz_portal_anchor",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "neoforge:conditions": [{"type": "justepicportals:config", "option": "PacRecipeCheap", "value": false}],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["PPP", "PCP", "PPP"],
+  "key": {
+    "P": {"tag": "justepicportals:pearl_ingredients"},
+    "C": {"item": "justepicportals:core_crux"}
+  },
+  "result": {"id": "justepicportals:portal_anchor_core", "count": 1}
+}

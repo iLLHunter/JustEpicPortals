@@ -1,0 +1,10 @@
+{
+  "astral_hum": {
+    "subtitle": "subtitles.justepicportals.astral_hum",
+    "sounds": [{"name": "justepicportals:astral_hum", "attenuation_distance": 16}]
+  },
+  "astral_travel": {
+    "subtitle": "subtitles.justepicportals.astral_travel",
+    "sounds": [{"name": "justepicportals:astral_travel", "attenuation_distance": 16}]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "justepicportals:config",
+      "option": "disableWaxedCutCopper",
+      "value": false
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " P ",
+    " B ",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "tag": "justepicportals:pearl_ingredients"
+    },
+    "B": {
+      "item": "minecraft:waxed_cut_copper"
+    }
+  },
+  "result": {
+    "id": "justepicportals:waxed_cut_copper_portal_anchor",
+    "count": 1
+  }
+}

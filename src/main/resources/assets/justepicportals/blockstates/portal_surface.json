@@ -1,0 +1,148 @@
+{
+  "variants": {
+    "axis=x,color=white": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=orange": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=magenta": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=light_blue": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=yellow": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=lime": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=pink": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=gray": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=light_gray": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=cyan": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=purple": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=blue": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=brown": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=green": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=red": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=x,color=black": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=white": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=orange": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=magenta": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=light_blue": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=yellow": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=lime": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=pink": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=gray": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=light_gray": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=cyan": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=purple": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=blue": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=brown": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=green": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=red": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=y,color=black": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=white": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=orange": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=magenta": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=light_blue": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=yellow": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=lime": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=pink": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=gray": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=light_gray": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=cyan": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=purple": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=blue": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=brown": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=green": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=red": {
+      "model": "justepicportals:block/portal_surface"
+    },
+    "axis=z,color=black": {
+      "model": "justepicportals:block/portal_surface"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.onlyk.justepicportals.compat.mixin",
+  "plugin": "com.onlyk.justepicportals.compat.mixin.AvaritiaMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["AvaritiaMiningMixin", "AvaritiaHammerMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

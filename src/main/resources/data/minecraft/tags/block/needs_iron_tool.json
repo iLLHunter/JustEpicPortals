@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "justepicportals:stone_portal_anchor",
+    "justepicportals:netherrack_portal_anchor",
+    "justepicportals:end_stone_portal_anchor",
+    "justepicportals:nether_bricks_portal_anchor",
+    "justepicportals:red_nether_bricks_portal_anchor",
+    "justepicportals:smooth_stone_portal_anchor",
+    "justepicportals:bricks_portal_anchor",
+    "justepicportals:bedrock_portal_anchor",
+    "justepicportals:cut_sandstone_portal_anchor",
+    "justepicportals:gilded_blackstone_portal_anchor",
+    "justepicportals:amethyst_portal_anchor",
+    "justepicportals:waxed_cut_copper_portal_anchor",
+    "justepicportals:waxed_oxidized_cut_copper_portal_anchor",
+    "justepicportals:emerald_portal_anchor",
+    "justepicportals:diamond_portal_anchor",
+    "justepicportals:honeycomb_portal_anchor",
+    "justepicportals:red_mushroom_portal_anchor",
+    "justepicportals:brown_mushroom_portal_anchor",
+    "justepicportals:glowstone_portal_anchor",
+    "justepicportals:obsidian_portal_anchor",
+    "justepicportals:crying_obsidian_portal_anchor",
+    "justepicportals:purpur_pillar_portal_anchor",
+    "justepicportals:purpur_portal_anchor",
+    "justepicportals:prismarine_bricks_portal_anchor",
+    "justepicportals:dark_prismarine_portal_anchor",
+    "justepicportals:chiseled_quartz_portal_anchor",
+    "justepicportals:quartz_pillar_portal_anchor",
+    "justepicportals:sea_lantern_portal_anchor"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "justepicportals:core_crux"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "justepicportals:portal_anchor_core_cheap"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_material",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "justepicportals:portal_anchor_core_cheap"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "justepicportals:config",
+      "option": "PacRecipeCheap",
+      "value": true
+    }
+  ]
+}

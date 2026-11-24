@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "justepicportals:block/quartz_pillar_portal_anchor"
+    },
+    "axis=x": {
+      "model": "justepicportals:block/quartz_pillar_portal_anchor",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z": {
+      "model": "justepicportals:block/quartz_pillar_portal_anchor",
+      "x": 90
+    }
+  }
+}
